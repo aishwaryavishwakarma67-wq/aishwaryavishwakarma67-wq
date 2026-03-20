@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aishwarya Vishwakarma</h1>
-<h3 align="center">Aspiring Data Analyst I am currently Pursuing my Degree in B.Sc. IT student focused on Data Analytics and AI solutions, with hands-on experience in Python, SQL, and data visualization. Built real-world projects like an AI chatbot and traffic data analysis system. Currently working towards becoming a job-ready data analyst by strengthening practical skills and tools. Known : Python , MySQL, Excel, Matplotlib</h3>
+<h3 align="center">Aspiring Data Analyst I am currently Pursuing my Degree in  FInal Year B.Sc. IT student focused on Data Analytics and AI solutions, with hands-on experience in Python, SQL, and data visualization. Built real-world projects like an AI chatbot and traffic data analysis system. Currently working towards becoming a job-ready data analyst by strengthening practical skills and tools. I work with data end-to-end — from cleaning and preprocessing to analyzing datasets and generating actionable insights. I have also explored backend development and AI-based applications to understand how intelligent systems are built and deployed.</h3>
+
+🚀 Skills
+
+- 📊 Python (Pandas, NumPy, Matplotlib), SQL  
+- 📈 Data Analysis & Visualization  
+- ⚡ FastAPI (Basics)  
+- 💻 C, C++ (Basics)  
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aishwaryavishwakarma67-wq" alt="aishwaryavishwakarma67-wq" /></a> </p>
 
